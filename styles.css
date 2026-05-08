@@ -1,0 +1,80 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: whitesmoke;
+    background-color: black;
+    
+}
+
+.recipetitle {
+/**    outline: 5px solid black; **/
+    padding: 5%;
+    margin: 5%;
+    font-size: 36px;
+}
+img {
+    width: 500px;
+    height: auto;
+}
+
+h1 {
+    font-size: 72px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 36px;
+}
+
+li {   
+    font-size: 20px;
+}
+
+.all {
+    /* outline: 5px solid black; */
+    padding: 10%;
+}
+
+.title {
+    /* outline: 5px solid black; */
+
+}
+
+.images {
+    /* outline: 5px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.ingredients {
+    /* outline: 5px solid black; */
+    padding-bottom: 5%;
+}
+
+.steps {
+    /* outline: 5px solid black; */
+    padding-bottom: 5%;
+}
+
+.homebox {
+    /* outline: 5px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.button {
+    background-color: lightgray;
+    border-radius: 5px;
+    color: black;
+    padding: 15px 32px;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: wavy;
+    display: inline-block;
+    font-size: 24px;
+    cursor: crosshair;
+
+}
